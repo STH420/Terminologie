@@ -1,4 +1,4 @@
-<a href="http://www.cegepsth.qc.ca/" style="padding-bottom:10px;padding-top:10px"><img src="images/LogoCegepSTH_1ligne_32.png"/></a><div style="position:absolute;top=8px;right:8px;"></div>
+<a href="http://www.cegepsth.qc.ca/" style="padding-bottom:10px;padding-top:10px"><img src="images/LogoCegepSTH_1ligne_32.png"/></a><div style="position:absolute;top=8px;center:8px;"></div>
 
 Terminologie utilisée au département de Techniques de l'informatique
 
