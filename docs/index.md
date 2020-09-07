@@ -12,7 +12,7 @@ N'hésitez pas à soummetre vos ajouts et recommandations via un [Pull-request](
 
 Vous pouvez référencer un terme directement dans vos documents en utilisant un URL de la forme suivante :
 
-`http://STH420.github.io/Lexique!#VotreTerme` où `VotreTerme` est le mot auquel vous voulez accéder directement.
+`http://STH420.github.io/Terminologie!#VotreTerme` où `VotreTerme` est le mot auquel vous voulez accéder directement.
 
 Attention! Bien que des références puissent êtres cités, ce site ne se veut pas une encyclopédie. Limitez-vous aux aspects linguistiques dans les descriptions et référencez la définition à l'externe.
 
